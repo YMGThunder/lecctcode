@@ -473,7 +473,7 @@ class Solution<p> {
 
         Optional<String> max = list.stream().max((a, b) -> -1);
         System.out.println("最长的字符串：" + max.get());
-
+        System.out.println("000");
 
 
         List<Person> personList = new ArrayList<Person>();
