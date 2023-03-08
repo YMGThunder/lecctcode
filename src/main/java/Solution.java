@@ -475,6 +475,7 @@ class Solution<p> {
         System.out.println("最长的字符串：" + max.get());
 
 
+
         List<Person> personList = new ArrayList<Person>();
         personList.add(new Person("Tom", 8900, 23, "male", "New York"));
         personList.add(new Person("Jack", 7000, 25, "male", "Washington"));
