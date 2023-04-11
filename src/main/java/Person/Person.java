@@ -6,7 +6,7 @@ public class Person {
     private int salary; // 薪资
     private int age; // 年龄
     private String sex; //性别
-    private String area;  // 地区
+    private String area;  // 地区XIAOSI
 
     // 构造方法
     public Person(String name, int salary, int age,String sex,String area) {
