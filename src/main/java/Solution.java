@@ -10,7 +10,7 @@ class Solution<p> {
 
 
     public class TreeNode {
-        int val;
+        int val     ;
         TreeNode left;
         TreeNode right;
 
